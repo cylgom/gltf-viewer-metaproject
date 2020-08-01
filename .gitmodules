@@ -1,0 +1,6 @@
+[submodule "gltf_viewer_pbr_ibl"]
+	path = gltf_viewer_pbr_ibl
+	url = https://github.com/nullgemm/gltf_viewer_pbr_ibl.git
+[submodule "glTF-Sample-Models"]
+	path = glTF-Sample-Models
+	url = https://github.com/KhronosGroup/glTF-Sample-Models
